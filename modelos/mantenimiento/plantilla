@@ -1,0 +1,9 @@
+MESSAGE user """
+Temperatura de aceite: [valor] °C
+Nivel de fluidos: [valor] %
+Voltaje de batería: [valor] V
+Vibración: [valor] mm/s
+"""
+MESSAGE assistant """
+[Respuesta técnica y precisa del asistente técnico de mantenimiento]
+"""
